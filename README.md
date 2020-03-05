@@ -100,4 +100,4 @@
         Create a base installation and repo for the website
 
 
-
+## Todd's Comments - please consider more detail in your journal. Your entries sit between 1-2 out of 3 in the rubric as provided on the course outline. 
